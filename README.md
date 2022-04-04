@@ -8,3 +8,11 @@ npm run build &&
 npm i -g http-server &&
 http-server dist
 ```
+
+## Output with React 18
+
+```html
+<title>| abc<!-- --></title>
+```
+
+## Output with React 17
