@@ -16,3 +16,7 @@ http-server dist
 ```
 
 ## Output with React 17
+
+```html
+<title>| abc</title>
+```
