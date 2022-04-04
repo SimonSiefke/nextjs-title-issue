@@ -15,6 +15,8 @@ http-server dist
 <title>| abc<!-- --></title>
 ```
 
+![](./title-issue.png)
+
 ## Output with React 17
 
 ```html
